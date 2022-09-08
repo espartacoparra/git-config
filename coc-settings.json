@@ -1,0 +1,4 @@
+{
+  "eslint.fixOnSaveTimeout":1000,
+  "eslint.autoFixOnSave": true
+}
