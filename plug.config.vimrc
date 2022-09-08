@@ -21,7 +21,7 @@ Plug 'https://github.com/junegunn/vim-github-dashboard.git'
 Plug  'easymotion/vim-easymotion'
 
 " Multiple Plug commands can be written in a single line using | separators
-Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+"iPlug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 
 " On-demand loading
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
